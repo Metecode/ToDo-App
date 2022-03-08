@@ -1,9 +1,9 @@
 # ToDo-App
 
-### The Goal Of The Project
+## The Goal Of The Project
 I aimed to learn and experience javascript DOM.
 
-### Technologies to be used in the Project:
+## Technologies to be used in the Project:
 <ul>
 <li>HTML</li>
 <li>CSS</li>
@@ -16,19 +16,19 @@ In this project , a simple to-do list has been applied. I have add and remove op
 
 ![example](/css/img/Peek%202022-03-09%2000-35.gif)
 
-## Codes:
-### Installation
+# Codes:
+## Installation
 
 ```
 git clone https://github.com/Metecode/ToDo-App.git
 ```
-### Usage
+## Usage
 
 ```
 cd <filename>
 code .
 ```
-### References
+## References
 
 [The web course](https://www.udemy.com/course/komple-web-developer-kursu/) which i study has benefited.
 

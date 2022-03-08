@@ -1,0 +1,28 @@
+u{
+    text-decoration:none
+}
+
+body{
+    background-color: #EFFFFD;
+}
+
+
+.card:focus {
+    border: none !important;
+ }
+ #title{
+    color: #42C2FF;
+ }
+ u{
+    color: #42C2FF;
+ }
+
+ .btn-primary,
+ .btn-primary:hover,
+ .btn-primary:active,
+ .btn-primary:visited,
+ .btn-primary:focus {
+     background-color: #42C2FF;
+     border-color: #42C2FF;
+ }
+

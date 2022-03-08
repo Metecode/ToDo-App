@@ -16,7 +16,6 @@ In this project , a simple to-do list has been applied. I have add and remove op
 
 ![example](/css/img/Peek%202022-03-09%2000-35.gif)
 
-# Codes:
 ## Installation
 
 ```

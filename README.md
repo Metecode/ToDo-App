@@ -18,15 +18,18 @@ In this project , a simple to-do list has been applied. I have add and remove op
 
 ## Codes:
 ### Installation
+
 ```
 git clone https://github.com/Metecode/ToDo-App.git
 ```
 ### Usage
+
 ```
 cd <filename>
 code .
 ```
 ### References
+
 [The web course](https://www.udemy.com/course/komple-web-developer-kursu/) which i study has benefited.
 
 
